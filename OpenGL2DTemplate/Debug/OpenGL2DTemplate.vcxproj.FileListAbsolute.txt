@@ -1,0 +1,2 @@
+C:\Users\Mariam ELERIAN\Desktop\graphics assignmnt 1 2d game\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
+C:\Users\Mariam ELERIAN\Desktop\graphics assignmnt 1 2d game\AngryBirdsGame\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
